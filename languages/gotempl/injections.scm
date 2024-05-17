@@ -1,3 +1,3 @@
-((yaml_command) @injection.content
+((text) @injection.content
     (#set! injection.language "yaml")
     (#set! "combined"))
